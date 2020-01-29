@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 900g",
+      "precio": "250",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Sushi ",
+      "precio": 300,
+      "id": 6
+    },
+    {
+      "nombre": "Jugo de piña",
+      "precio": 123123,
+      "id": 7
+    },
+    {
+      "nombre": "jugo de frutas",
+      "precio": 100,
+      "id": 8
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 9
+    }
+  ]
+}
